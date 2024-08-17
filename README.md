@@ -31,7 +31,7 @@ Start your web server and navigate to the project directory in your browser to s
 
 ## Watch the Tutorial
 For a step-by-step guide on how to build this project, check out the YouTube tutorial:
-[Watch on YouTube](https://www.youtube.com/your-video-link)
+[Watch on YouTube](https://youtu.be/d20-bB8sdT0?si=AAqbE5Gw0Ot75P2k)
 
 ## Contributing
 Contributions are welcome! Please fork this repository and submit a pull request for any improvements or bug fixes.
